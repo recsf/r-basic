@@ -93,7 +93,7 @@ asin(0.8660254) #arc sin en radianes
 
 asin(0.8660254) * 180 /pi #arc sin en grados
 
-asin(5) #arc sin x in [-1,1]
+asin(5) #arc sin x in [-1,1], por eso da NaN
 
 acos(-8)
 

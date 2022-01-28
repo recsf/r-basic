@@ -137,9 +137,9 @@ y
 sin(pi/4) + cos(pi/4) -> z
 z
 
-edad <- 30
+edad <- 27
 
-nombre = "Juan Gabriel"
+nombre = "Erick Garcia"
 
 HOLA = 1
 hola = 5
